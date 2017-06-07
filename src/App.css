@@ -2,6 +2,8 @@
     text-align: center;
     font-size: 40px;
     margin-top: 10%;
+    background-image: url("./assets/colorful.png");
+
 }
 
 .App-title {
@@ -11,4 +13,9 @@
 .Clock-days, .Clock-hours, .Clock-minutes, .Clock-seconds {
     display: inline;
     margin: 10px;
+}
+
+.DeadLine-input {
+    font-size: 25px;
+    margin: 5px;
 }
